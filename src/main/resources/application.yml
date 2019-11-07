@@ -1,0 +1,7 @@
+message.response:   Hello from DEV spring boot properties
+kafka.broker: 192.168.1.226:9292
+enable.auto.commit: true
+auto.commit.interval.ms:  100
+group.id: group1
+kafka.auto.offset.reset: earliest
+kafka.topic: test-topic
